@@ -1,6 +1,6 @@
 {
+  "name": "mr_peach",
   "homepage": "http://aryaabh2.github.io/MrPeach",
-  "name": "frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
