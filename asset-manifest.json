@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MrPeach/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/MrPeach/static/js/main.1a3f13f1.chunk.js",
+    "main.js.map": "/MrPeach/static/js/main.1a3f13f1.chunk.js.map",
+    "runtime-main.js": "/MrPeach/static/js/runtime-main.4c296977.js",
+    "runtime-main.js.map": "/MrPeach/static/js/runtime-main.4c296977.js.map",
+    "static/js/2.568523ce.chunk.js": "/MrPeach/static/js/2.568523ce.chunk.js",
+    "static/js/2.568523ce.chunk.js.map": "/MrPeach/static/js/2.568523ce.chunk.js.map",
+    "static/js/3.146b488c.chunk.js": "/MrPeach/static/js/3.146b488c.chunk.js",
+    "static/js/3.146b488c.chunk.js.map": "/MrPeach/static/js/3.146b488c.chunk.js.map",
+    "index.html": "/MrPeach/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/MrPeach/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.568523ce.chunk.js.LICENSE.txt": "/MrPeach/static/js/2.568523ce.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MrPeach/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c296977.js",
+    "static/js/2.568523ce.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1a3f13f1.chunk.js"
+  ]
+}
