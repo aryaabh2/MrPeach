@@ -15,6 +15,9 @@ const HomePage = () => {
         ticker: ticker.trim(),
         buy_date: buyDate.trim(),
       });
+      const res2 = await axios.post("https://mrpeachbackend.onrender.com/api/veronica", {
+      });
+      console.log(res2.data)
       setResponse(res.data);
     } catch (err) {
       setError(err.response ? err.response.data.error : "An unexpected error occurred.");
